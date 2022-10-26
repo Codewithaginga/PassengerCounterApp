@@ -1,0 +1,25 @@
+body {
+
+    background-image: url("malindi.jpg");
+    background-size: cover;
+    font-weight: bold;
+    text-align: center;
+
+
+
+}
+
+button {
+    border: none;
+    padding-top: 15x;
+    padding-bottom: 15x;
+    color: wheat;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+#increment-btn {
+    background: darkblue;
+}
